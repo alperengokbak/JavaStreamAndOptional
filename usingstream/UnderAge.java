@@ -1,6 +1,4 @@
-package com.javastream.usingstream;
-
-import com.javastream.usingstream.models.Person;
+import models.Person;
 
 import java.util.HashSet;
 import java.util.List;

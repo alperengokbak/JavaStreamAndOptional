@@ -1,5 +1,3 @@
-package com.javastream.usingoptional;
-
 public class PhoneBookCrawler {
 
     private final PhoneBook phoneBook;

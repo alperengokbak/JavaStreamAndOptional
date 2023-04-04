@@ -1,5 +1,3 @@
-package com.javastream.usingstream;
-
 import java.util.Arrays;
 
 public class LetterCount {

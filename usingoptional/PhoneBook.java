@@ -1,5 +1,3 @@
-package com.javastream.usingoptional;
-
 import java.util.*;
 
 public class PhoneBook {

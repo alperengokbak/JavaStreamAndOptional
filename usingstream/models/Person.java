@@ -1,4 +1,4 @@
-package com.javastream.usingstream.models;
+package models;
 
 public class Person {
 
